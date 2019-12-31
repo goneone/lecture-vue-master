@@ -7,7 +7,7 @@ import HistoryView from '../views/HistoryView.js'
 import SearchModel from '../models/SearchModel.js'
 import KeywordModel from '../models/KeywordModel.js'
 import HistoryModel from '../models/HistoryModel.js'
-
+//test2
 const tag = '[MainController]'
 
 export default {
